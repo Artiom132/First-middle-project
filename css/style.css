@@ -20,11 +20,16 @@ body
     border-right: 3px solid #00241B;
     box-shadow: 0px 0px 20px #00241B;
 }
-.font-effect-three-dimensional
-{
+.p{
+
     text-align:center;
     padding:auto;
+    font-size:6em;
+    font-family:arial;
+    -webkit-text-stroke:4px black;
     font-weight:bold;
+    color:white;
+    text-shadow:2px 2px 5px black;
 }
 .logo img
 {
